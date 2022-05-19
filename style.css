@@ -48,7 +48,6 @@ section {
 .main-header {
     background: var(--primary-clr-white);
     text-align: center;
-    
 }
 
 /* logo */
@@ -80,7 +79,7 @@ section {
 
 /* Hero section */
 .hero-section img{
-    width: 100%;
+    width:auto;
 }
 
 .hero-side--desc {
