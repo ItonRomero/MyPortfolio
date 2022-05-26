@@ -82,7 +82,7 @@ body {
 
 
 
-/* HERO SECTION */
+ /* HERO SECTION  */
 
 .section-hero {
     position: relative;
@@ -167,4 +167,4 @@ body {
 
 .carousel_indicator.active {
     background-color: rgba(219, 35, 35, 0.3);
-}
+} 

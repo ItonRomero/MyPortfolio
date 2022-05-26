@@ -1,0 +1,23 @@
+/* default */
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+  /* DEFAULT */
+  :root {
+    --bs-white: #F5F5F5;
+    --bs-dark: #262626;
+    --bs-accent: #F19A3E;
+  }
+
+  body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.active1 {
+    color: var(--bs-accent); 
+}
+.nav-link:hover,
+.nav-link:focus {
+    color: var(--bs-accent);
+}
