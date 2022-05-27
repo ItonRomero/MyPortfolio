@@ -21,3 +21,54 @@
 .nav-link:focus {
     color: var(--bs-accent);
 }
+
+/* MAIN MENU */
+.nav-link {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+/* Recent work section */
+.recent-work-section {
+  padding: 70px 0 128px 0 ; 
+}
+
+.recentwork-headline {
+  margin-bottom: 38px;
+  text-transform:uppercase;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.rw-title {
+  margin: 46px 0 20px 0;
+}
+
+/* FOOTER SECTION */
+
+.footer-section {
+  padding: 100px 0 18px 0;
+  background-color: var(--bs-dark);
+}
+
+.footer-headline {
+  color: var(--bs-white);
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 60px;
+}
+
+.fs-copyright {
+  color: var(--bs-white);
+}
+
+.fs-copyright-social{
+  margin-top: 69px;
+}
